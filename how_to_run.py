@@ -16,7 +16,7 @@ st.markdown(
 
 st.markdown(
     "<div style='font-family:Times New Roman, Times, serif; font-style:italic;'>"
-    "Hello everyone, this app is created and managed by Sajid Hafeez, Data scientist at Rprogrammers.com.<br>"
+    "Hello mate, I hope everything works well on your end as well, for any kinding of questions feel free to reach out to me.<br>"
     "I offer services related to Data science and statistical analysis using R, Python, Stata, SPSS, Weka and Power BI. Feel free to contact me on the following."
     "</div>",
     unsafe_allow_html=True,
